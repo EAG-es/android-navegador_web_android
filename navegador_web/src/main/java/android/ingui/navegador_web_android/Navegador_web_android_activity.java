@@ -10,6 +10,7 @@ import android.innui.modelos_android.modelos_android;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.view.Window;
 import android.widget.Button;
 import android.widget.TextView;
 
