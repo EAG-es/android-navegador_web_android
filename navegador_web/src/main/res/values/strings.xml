@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Navegador web android</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="ulr_inicial">https://www.google.com/</string>
+    <string name="signo_menor"><![CDATA[<]]></string>
+    <string name="signo_mayor"><![CDATA[>]]></string>
+    <string name="signo_tilde">^</string>
+</resources>
