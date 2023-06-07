@@ -14,5 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Navegador_web_android"
 include ':app_navegador_web_android'
-include ':navegador_web'
+include ':navegador_web_android'
 include ':modelos_android'

@@ -6,7 +6,4 @@ import android.os.Bundle;
 
 public class Navegador_web_android extends Navegador_web_android_activity {
 
-    public Navegador_web_android() throws Exception {
-    }
-
 }

@@ -4,7 +4,7 @@ import androidx.lifecycle.ViewModel;
 
 import java.io.Serializable;
 
-public class modelos_permanentes extends ViewModel {
+public class modelos_permanentes extends ViewModel implements Serializable {
     public interface i_modelos_permanentes extends Serializable {
         void onCleared();
     }
